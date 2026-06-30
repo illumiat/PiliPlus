@@ -2,12 +2,36 @@
     <img width="200" height="200" src="assets/images/logo/logo.png">
 </div>
 
+<div align="center">
 
+---
+
+## 🤖 AI 生成声明 / AI-GENERATED NOTICE
+
+> **本 fork 由 AI (WorkBuddy) 创建并维护。**
+>
+> **This fork is created and maintained by AI (WorkBuddy).**
+>
+> 修复代码、README 标注、commit message 均由 AI 生成。
+> The fix code, README annotations, and commit messages are AI-generated.
+>
+> 如有疑问请在 [上游仓库](https://github.com/bggRGjQaUbCoE/PiliPlus) 提 issue。
+> For questions, please open an issue at the [upstream repo](https://github.com/bggRGjQaUbCoE/PiliPlus).
+
+---
+
+</div>
 
 <div align="center">
-    <h1>PiliPlus</h1>
+    <h1>PiliPlus (Fork - MTK AAudio 修复)</h1>
 <div align="center">
-    
+
+> ⚠️ **这是 [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) 的 fork，仅用于提交一个针对联发科(MTK)设备 AAudio 音频输出 seek 后画面冻结的修复。**
+>
+> 修复位于 [`fix/mtk-aaudio-seek-freeze`](https://github.com/illumiat/PiliPlus/tree/fix/mtk-aaudio-seek-freeze) 分支，PR 已提交至上游。
+>
+> 本 fork 的 `main` 分支与上游保持同步，不做其他修改。如需使用 PiliPlus，请前往 [上游仓库](https://github.com/bggRGjQaUbCoE/PiliPlus)。
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/bggRGjQaUbCoE/PiliPlus) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/bggRGjQaUbCoE/PiliPlus) 
 ![GitHub all releases](https://img.shields.io/github/downloads/bggRGjQaUbCoE/PiliPlus/total) 
